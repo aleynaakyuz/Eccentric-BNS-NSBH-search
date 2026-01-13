@@ -1,0 +1,141 @@
+000 (36354977.000.000) 2026-01-12 15:54:52 Job submitted from host: <10.5.0.107:9618?addrs=10.5.0.107-9618&alias=sugwg-login.syr.edu&noUDP&sock=schedd_1318_9de9>
+...
+022 (36354977.000.000) 2026-01-12 15:55:11 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@CRUSH-OG-10-5-211-89 <10.5.211.89:9618?addrs=10.5.211.89-9618&alias=CRUSH-OG-10-5-211-89&noUDP&sock=startd_951807_0337>
+...
+024 (36354977.000.000) 2026-01-12 15:55:11 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@CRUSH-OG-10-5-211-89, rescheduling job
+...
+022 (36354977.000.000) 2026-01-12 15:55:45 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@CRUSH-OG-10-5-211-89 <10.5.211.89:9618?addrs=10.5.211.89-9618&alias=CRUSH-OG-10-5-211-89&noUDP&sock=startd_951807_0337>
+...
+024 (36354977.000.000) 2026-01-12 15:55:45 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@CRUSH-OG-10-5-211-89, rescheduling job
+...
+022 (36354977.000.000) 2026-01-12 15:56:18 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@CRUSH-OG-10-5-211-89 <10.5.211.89:9618?addrs=10.5.211.89-9618&alias=CRUSH-OG-10-5-211-89&noUDP&sock=startd_951807_0337>
+...
+024 (36354977.000.000) 2026-01-12 15:56:18 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@CRUSH-OG-10-5-211-89, rescheduling job
+...
+022 (36354977.000.000) 2026-01-12 15:56:51 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@CRUSH-OG-10-5-211-89 <10.5.211.89:9618?addrs=10.5.211.89-9618&alias=CRUSH-OG-10-5-211-89&noUDP&sock=startd_951807_0337>
+...
+024 (36354977.000.000) 2026-01-12 15:56:51 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@CRUSH-OG-10-5-211-89, rescheduling job
+...
+001 (36354977.000.000) 2026-01-12 15:57:23 Job executing on host: <10.5.206.252:9618?addrs=10.5.206.252-9618&alias=CRUSH-OG-10-5-206-252&noUDP&sock=startd_1549_104a>
+...
+006 (36354977.000.000) 2026-01-12 15:57:31 Image size of job updated: 136912
+	85  -  MemoryUsage of job (MB)
+	86224  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 16:02:31 Image size of job updated: 230164572
+	1334  -  MemoryUsage of job (MB)
+	1365596  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 16:07:32 Image size of job updated: 230227260
+	1334  -  MemoryUsage of job (MB)
+	1365596  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 16:27:35 Image size of job updated: 230238656
+	1334  -  MemoryUsage of job (MB)
+	1365596  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 16:42:36 Image size of job updated: 230268420
+	1389  -  MemoryUsage of job (MB)
+	1421848  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 16:47:37 Image size of job updated: 230440656
+	1389  -  MemoryUsage of job (MB)
+	1421848  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 16:52:37 Image size of job updated: 230440656
+	1391  -  MemoryUsage of job (MB)
+	1424260  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 16:57:38 Image size of job updated: 230440656
+	1424  -  MemoryUsage of job (MB)
+	1457272  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:02:39 Image size of job updated: 230440656
+	1429  -  MemoryUsage of job (MB)
+	1462552  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:07:39 Image size of job updated: 230522156
+	1429  -  MemoryUsage of job (MB)
+	1462552  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:12:39 Image size of job updated: 230522156
+	1456  -  MemoryUsage of job (MB)
+	1490280  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:22:41 Image size of job updated: 230566332
+	1456  -  MemoryUsage of job (MB)
+	1490280  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:27:41 Image size of job updated: 230591304
+	1456  -  MemoryUsage of job (MB)
+	1490280  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:32:41 Image size of job updated: 230591304
+	1526  -  MemoryUsage of job (MB)
+	1561656  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:37:42 Image size of job updated: 230736592
+	1526  -  MemoryUsage of job (MB)
+	1561656  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:42:42 Image size of job updated: 230736592
+	1547  -  MemoryUsage of job (MB)
+	1583588  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 17:57:44 Image size of job updated: 230736592
+	1631  -  MemoryUsage of job (MB)
+	1670124  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 18:07:44 Image size of job updated: 230736592
+	1807  -  MemoryUsage of job (MB)
+	1849456  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 18:12:45 Image size of job updated: 230885928
+	1807  -  MemoryUsage of job (MB)
+	1849588  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 18:22:45 Image size of job updated: 230921248
+	1807  -  MemoryUsage of job (MB)
+	1849588  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 18:32:47 Image size of job updated: 230922092
+	1843  -  MemoryUsage of job (MB)
+	1886588  -  ResidentSetSize of job (KB)
+...
+006 (36354977.000.000) 2026-01-12 18:37:47 Image size of job updated: 230947600
+	1843  -  MemoryUsage of job (MB)
+	1886588  -  ResidentSetSize of job (KB)
+...
+005 (36354977.000.000) 2026-01-12 18:51:33 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 3 14:56:47, Sys 0 00:24:51  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 3 14:56:47, Sys 0 00:24:51  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :    32.00       32        32 
+	   Disk (KB)            :     1    25165824  25185085 
+	   Memory (MB)          :  1843       24576     24576 
+
+	Job terminated of its own accord at 2026-01-12T23:51:33Z with exit-code 0.
+...
