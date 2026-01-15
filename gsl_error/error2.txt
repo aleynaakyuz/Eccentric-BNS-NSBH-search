@@ -1,0 +1,4 @@
+2026-01-15T09:43:25.509-05:00 WARNING : You are using the class-based PyCBC FFT API, with the numpy backed. This is provided for convenience only. If performance is important use the class-based API with one of the other backends (for e.g. MKL or FFTW)
+gsl: interp.c:83: ERROR: x values must be strictly increasing
+Default GSL error handler invoked.
+/home/aakyuz/ecc_search/temp_bank/small_exp/tau_q_anomaly3/gen_bank.sh: line 22: 3319319 Aborted                 (core dumped) OMP_NUM_THREADS=1 pycbc_brute_bank --verbose --output-file part-1.hdf --minimal-match 0.965 --tolerance .005 --full-resolution-buffer-length 140 --buffer-length 4 --sample-rate 2048 --tau0-threshold 0.5 --tau0-start 100.0 --tau0-end 190.0 --approximant teobresums --tau0-crawl 10 --asd-file ./o3asd.txt --seed 1 --low-frequency-cutoff 20.0 --tau0-cutoff-frequency 20.0 --input-config ./priors.ini

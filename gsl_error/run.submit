@@ -1,0 +1,10 @@
+executable = /home/aakyuz/ecc_search/temp_bank/small_exp/tau_q_anomaly3/gen_bank.sh 
+
+error = error2.txt
+log = job2.log
+request_disk = 24 GB
+request_memory = 64 GB
+request_cpus = 32
+getenv = True
+accounting_group_user = aakyuz2
+queue
